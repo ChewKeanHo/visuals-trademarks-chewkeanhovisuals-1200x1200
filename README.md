@@ -1,4 +1,4 @@
-# (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 1200x1200 | (Holloway) Chew, Kean Ho's Visuals
+# (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 1200x1200 | (Holloway) Chew, Kean Ho's Creative Visuals
 
 [![logo](/Pictures/banner_1200x1200.svg)](#)
 
