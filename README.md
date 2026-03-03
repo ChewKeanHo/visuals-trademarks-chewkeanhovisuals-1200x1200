@@ -1,15 +1,15 @@
-# (Holloway) Chew, Kean Ho's  Visuals Arts Service Product Trademarks Logo 1200x1200 | (Holloway) Chew, Kean Ho's Visuals
+# (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 1200x1200 | (Holloway) Chew, Kean Ho's Visuals
 
 [![logo](/Pictures/banner_1200x1200.svg)](#)
 
-The (Holloway) Chew, Kean Ho Visuals Arts Service Product Trademarks Logo. They
-published clear trademark guideline and supplied the required material files for
-it here. The preferred version is `.svg` which has non-destructive scale up &
-down properties and can be converted into any rasterized images (e.g. `jpeg`,
-`webp`, `avif`, etc).
+The (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark
+Logo. They published clear trademark guideline and supplied the required
+material files for it here. The preferred version is `.svg` which has
+non-destructive scale up & down properties and can be converted into any
+rasterized images (e.g. `jpeg`, `webp`, `avif`, etc).
 
-This project creates (Holloway) Chew, Kean Ho's Visuals Arts Service Product
-Trademarks Logo specifically for 1200x1200 size.
+This project creates (Holloway) Chew, Kean Ho's Creative Visuals Service
+Product Trademark Logo specifically for 1200x1200 size.
 
 
 
@@ -180,7 +180,7 @@ Unless otherwise specified in writing, you **MUST** attribute back to the
 creator(s) as follows:
 
 ```
-Title: (Holloway) Chew, Kean Ho's Visuals Arts Service Product Trademarks Logo 1200x1200
+Title: (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 1200x1200
 Creators: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
 SKU: chewkeanho-visuals-trademarks-chewkeanhovisuals-1200x1200
