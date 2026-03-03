@@ -97,7 +97,7 @@ Since (Holloway) Chew, Kean Ho published its brand and trademark guideline,
 * Standard Global Trademark Laws
 * Local Trademark Laws
 
-While not specified by (Holloway) Chew, Kean Ho, please ensure the outputs are
+While not specified by (Holloway) Chew, Kean Ho; please ensure the outputs are
 also web ready. Refer:
 
 * https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Define_app_icons
